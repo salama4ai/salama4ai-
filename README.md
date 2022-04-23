@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salama4ai" alt="salama4ai" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/salama4ai](https://github.com/salama4ai)
+- 👨‍💻 Sample of my projects are available at [https://github.com/salama4ai](https://github.com/salama4ai)
 
 - 📫 How to reach me **salama4ai@gmail.com**
 
