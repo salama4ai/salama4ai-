@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salama4ai" alt="salama4ai" /></a> </p>
 
+- 👨‍💻 All of my projects are available at [https://github.com/salama4ai](https://github.com/salama4ai)
+
 - 📫 How to reach me **salama4ai@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/salama4ai/overlay/1635483091381/single-media-viewer?type=DOCUMENT&profileId=ACoAAB36IRMBkerIdcaW2uOjPa8yi0PlAM4BBzA&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bg3wswf%2BOQVWymnxXsFgNrg%3D%3D](https://www.linkedin.com/in/salama4ai/overlay/1635483091381/single-media-viewer?type=DOCUMENT&profileId=ACoAAB36IRMBkerIdcaW2uOjPa8yi0PlAM4BBzA&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bg3wswf%2BOQVWymnxXsFgNrg%3D%3D)
