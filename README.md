@@ -5,9 +5,9 @@
 
 - 👨‍💻 Sample of my projects are available at [https://github.com/salama4ai](https://github.com/salama4ai)
 
-- 📫 How to reach me **salama4ai@gmail.com**
+- 📫 Email: **salama4ai@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/salama4ai" target="linkedin.com/in/salama4ai"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salama4ai" height="30" width="40" /></a>
 <a href="https://kaggle.com/salama4ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="salama4ai" height="30" width="40" /></a>
