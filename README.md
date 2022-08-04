@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Salama</h1>
-<h3 align="center">NLP | Machine Learning Engineer</h3>
+<h3 align="center">NLP | Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salama4ai&label=Profile%20views&color=0e75b6&style=flat" alt="salama4ai" /> </p>
 
